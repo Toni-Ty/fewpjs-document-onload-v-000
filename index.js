@@ -1,3 +1,3 @@
-document.addEventListener("DomContentLoaded", function()){
-
-document.getElementById('text').innerHTML = "Cool";
+document.addEventListener("DOMContentLoaded", function(){
+    document.getElementById("text").innerHTML = "This is really cool!";
+   }) 
